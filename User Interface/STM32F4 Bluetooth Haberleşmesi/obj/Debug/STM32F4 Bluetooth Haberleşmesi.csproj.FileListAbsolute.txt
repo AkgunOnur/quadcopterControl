@@ -1,0 +1,9 @@
+c:\users\merkez\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\bin\Debug\STM32F4 Bluetooth Haberleşmesi.exe.config
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\bin\Debug\STM32F4 Bluetooth Haberleşmesi.exe
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\bin\Debug\STM32F4 Bluetooth Haberleşmesi.pdb
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4 Bluetooth Haberleşmesi.csprojResolveAssemblyReference.cache
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4_Bluetooth_Haberleşmesi.Form1.resources
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4_Bluetooth_Haberleşmesi.Properties.Resources.resources
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4 Bluetooth Haberleşmesi.csproj.GenerateResource.Cache
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4 Bluetooth Haberleşmesi.exe
+C:\Users\MeRKeZ\documents\visual studio 2012\Projects\STM32F4 Bluetooth Haberleşmesi\STM32F4 Bluetooth Haberleşmesi\obj\Debug\STM32F4 Bluetooth Haberleşmesi.pdb
